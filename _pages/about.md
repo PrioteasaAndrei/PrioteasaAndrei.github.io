@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: The modern man, with his embrace of rationality and disregard of the irrational, has given birth to a new justification mechanism, that is rationalization. We are as much at the mercy of our unconscious desires as the primitive person. What we have indeed learned is to create intricate justification for these urges, in the name of ethics and call them conscious decisions.
+subtitle: <span style="font-size: 0.5em; font-style: italic;"> The modern man, with his embrace of rationality and disregard of the irrational, has given birth to a new justification mechanism, that is rationalization. We are as much at the mercy of our unconscious desires as the primitive person. What we have indeed learned is to create intricate justification for these urges, in the name of ethics and call them conscious decisions. </span>
 
 profile:
   align: right
