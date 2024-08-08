@@ -7,7 +7,9 @@ nav: true
 
 Test
 
-<div class="chat-input-container">
+<!-- right now the class for the div is not connected for some reason. -->
+
+<div class="chat-input-container" style="display: flex; justify-content: center; align-items: center; height: 20vh;">
   <textarea class="chat-input" placeholder="Type your message here..."></textarea>
   <button class="send-button">
     <svg viewBox="0 0 24 24" class="send-icon">

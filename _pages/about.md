@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: create. understand. question.
+subtitle: <a href="https://www.daad.de/en/">DAAD</a> Masterstipendium award 2023-2025
 profile:
   align: right
   image: prof_pic.jpeg
