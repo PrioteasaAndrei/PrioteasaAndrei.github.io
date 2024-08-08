@@ -1,0 +1,37 @@
+.chat-input-container {
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #d9d9e3;
+    padding: 12px 16px;
+  
+    .chat-input {
+      flex-grow: 1;
+      border: none;
+      outline: none;
+      font-size: 16px;
+      color: #333;
+      background-color: transparent;
+      resize: none;
+      overflow-y: auto;
+      max-height: 200px;
+      padding: 0;
+  
+      &::placeholder {
+        color: #a3a3c2;
+      }
+    }
+  
+    .send-button {
+      background-color: transparent;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      margin-left: 12px;
+  
+      .send-icon {
+        width: 24px;
+        height: 24px;
+        fill: #333;
+      }
+    }
+  }

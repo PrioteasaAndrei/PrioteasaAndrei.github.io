@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="font-size: 0.5em; font-style: italic;"> The modern man, with his embrace of rationality and disregard of the irrational, has given birth to a new justification mechanism, that is rationalization. We are as much at the mercy of our unconscious desires as the primitive person. What we have indeed learned is to create intricate justification for these urges, in the name of ethics and call them conscious decisions. </span>
-
+subtitle: create. understand. question.
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    todo: change picture
+    <span style="font-size: 0.5em; font-style: italic;"> The modern man, with his embrace of rationality and disregard of the irrational, has given birth to a new justification mechanism, that is rationalization. We are as much at the mercy of our unconscious desires as the primitive person. What we have indeed learned is to create intricate justification for these urges, in the name of ethics and call them conscious decisions. </span>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,3 +21,4 @@ My primary interest lies in Computer Vision, how this fundamentally is inspired 
 I'm currently pursuing a highly interdisiciplinary M.Sc. at University of Heidelberg, where I focus on applications of AIML in fields outside engineering (e.g. life sciences, social sciences).
 
 In my free time I take a chaotic interest in philosophy, cognitive science and psychology.
+
