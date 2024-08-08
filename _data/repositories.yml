@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - PrioteasaAndrei
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
+  - PrioteasaAndrei/artistic-colorization-UNet
+  - PrioteasaAndrei/ML-Essentials
+  - PrioteasaAndrei/QA-with-transformers-WS23
+  - PrioteasaAndrei/Cryptography-Project
+  - PrioteasaAndrei/planar-segmentation
   - mathjax/MathJax
   - jpswalsh/academicons
