@@ -9,18 +9,16 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    todo
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    todo: change picture
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-TODO: write short description about you here
+This is a personal website to showcase some of my projects I've been involved in during my Bachelor's and Master's degree and, hopefully, get me a job in machine learning.
 
+My primary interest lies in Computer Vision, how this fundamentally is inspired by the human vision apparatus and what can we improve in it. I take a special interest in Explainability and Interpretabilit in the context of vision as I find it necessary to escape the Black Box dogma (it works, so I don't care how), especially now when we are bringing ML and AI into social and life sciences.
 
+I'm currently pursuing a highly interdisiciplinary M.Sc. at University of Heidelberg, where I focus on applications of AIML in fields outside engineering (e.g. life sciences, social sciences).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time I take a chaotic interest in philosophy, cognitive science and psychology.
