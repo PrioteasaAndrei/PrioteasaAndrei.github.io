@@ -21,4 +21,3 @@ My primary interest lies in Computer Vision, how this fundamentally is inspired 
 I'm currently pursuing a highly interdisiciplinary M.Sc. at University of Heidelberg, where I focus on applications of AIML in fields outside engineering (e.g. life sciences, social sciences).
 
 In my free time I take a chaotic interest in philosophy, cognitive science and psychology.
-
