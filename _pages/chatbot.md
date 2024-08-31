@@ -5,7 +5,7 @@ permalink: /chatbot/
 nav: true
 ---
 
-Test
+This is a WIP chatbot.
 
 <!-- right now the class for the div is not connected for some reason. -->
 

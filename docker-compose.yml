@@ -10,3 +10,13 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+  # this part is not running fine
+  # backend:
+  #   build: .
+  #   container_name: flask-backend
+  #   ports:
+  #     - 5001:5000
+  #   # volumes:
+  #   #   - ./backend:/srv/jekyll/
+  #   environment:
+  #     - FLASK_ENV=development
