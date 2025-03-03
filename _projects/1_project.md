@@ -142,7 +142,7 @@ How complex is actually MRI data? To make things even more complex, whereas in o
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/mri_size" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/mri_size.png" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -160,7 +160,7 @@ The field of generative AI has evolved dramatically since its early days. Starti
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/gen_ai_evolution.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/gen_ai_evolution.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -179,7 +179,7 @@ Traditional **Diffusion Models** add noise to an image and then train a network 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/difficult_diffusion.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/difficult_diffusion.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -195,7 +195,7 @@ Traditional **Diffusion Models** add noise to an image and then train a network 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/paper_overview.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/paper_overview.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -210,7 +210,7 @@ So LDMs should make everything faster, right? Well, not exactly:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/still_slower.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/still_slower.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -228,10 +228,10 @@ One major issue with Diffusion Models (and LDMs for that matter) is their **slow
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/ddim_faster.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/ddim_faster.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/sample_time_reduction.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/sample_time_reduction.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -246,13 +246,13 @@ DDIM significantly speeds up training time for LDMs while maintaining high quali
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/results1.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/results1.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/results2.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/results2.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/results4.jpeg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/results4.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
