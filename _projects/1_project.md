@@ -105,7 +105,7 @@ To deal with this, researchers turned to **generative models**—AI models that 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/diffusion_process_intro" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/diffusion_process_intro.png" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
