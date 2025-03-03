@@ -210,7 +210,7 @@ So LDMs should make everything faster, right? Well, not exactly:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/still_slower.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/still_slower.png" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -228,10 +228,10 @@ One major issue with Diffusion Models (and LDMs for that matter) is their **slow
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/ddim_faster.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/ddim_faster.png" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/sample_time_reduction.jpg" title="start image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dkfz_seminar/sample_time_reduction.png" title="start image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
