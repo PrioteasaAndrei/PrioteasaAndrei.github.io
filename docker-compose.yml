@@ -1,13 +1,16 @@
 # this file uses prebuilt image in dockerhub
+version: '3'
+
 services:
   jekyll:
-    image: amirpourmand/al-folio:latest
     build: .
     ports:
-      - 8080:8080
-      - 35729:35729
+      - "4000:4000"
+      - "35729:35729"
     volumes:
       - .:/srv/jekyll
+      - /srv/jekyll/vendor
+      - /srv/jekyll/.bundle
     environment:
       - JEKYLL_ENV=development
   # this part is not running fine

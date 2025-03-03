@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of personal projects, including my Bachelor Thesis. WIP
+description: A collection of personal projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [uni, others]
 horizontal: false
 ---
 
