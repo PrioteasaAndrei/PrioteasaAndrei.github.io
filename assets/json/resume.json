@@ -20,12 +20,34 @@
   },
   "work": [
     {
+      "name": "Teaching Assitant | Machine Learning Essentials SS25, Facultyt of Informatik, University of Heidelberg",
+      "position": "Teaching Assitant",
+      "url": "",
+      "startDate": "2025-04-01",
+      "endDate": "Present",
+      "summary": "Help designing and implementing the course material for the Machine Learning Essentials course, implementing automated tests for the course assignments, and grading the assignments.",
+      "highlights": [
+        "Implementing an automated grading framework based on otter-grader, and a testing framework for the course assignments."
+      ]
+    },
+    {
+      "name": "Intern | Machine Learning Human Behaviour, IWR, University of Heidelberg",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "Mandatory internship as part of the Data and Computer Science M.Sc. curriculum. Exploring different approaches to Human Behavior modelling and control through Repeated Trust Game interactions, using Dynamical System Reconstruction methods and Recurrent Neural Networks. Internship under the guidance of the Machine Learning Human Behaviour laboratory, IWR.",
+      "highlights": [
+        "Implemented a Dynamical System Reconstruction method for Human Behavior modelling and control through Repeated Trust Game interactions, using Dynamical System Reconstruction methods and Recurrent Neural Networks."
+      ]
+    },
+    {
       "name": "Institute for Mathematics, Image & Pattern Analysis Group, University of Heidelberg",
       "position": "Hilfswissenschaftler",
       "url": "",
       "startDate": "2024-02-01",
       "endDate": "2024-05-01",
-      "summary": "Contributed to Go-Droid-SLAM, a deep-learning-based dense visual SLAM framework for real-time global optimization of poses and 3D reconstruction. Uses a loop closure mechanism using the Co-Visibility matrix to the DROID-SLAM framework.",
+      "summary": "Contributed to DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting, a deep-learning-based dense visual SLAM framework that achieves real-time global optimization of poses and 3D reconstruction. Responsible for designing and implementing an evaluation framework, developed scripts, and defined performance metrics.",
       "highlights": [
         "Responsible for result evaluation, Weights & Biases integration, literature research, running experiments"
       ]
