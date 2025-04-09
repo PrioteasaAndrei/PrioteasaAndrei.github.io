@@ -4,8 +4,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - PrioteasaAndrei/comp-cogsci-delay-discounting
   - PrioteasaAndrei/artistic-colorization-UNet
-  - PrioteasaAndrei/ML-Essentials
+  - PrioteasaAndrei/music-style-transfer-ldm
+  - PrioteasaAndrei/humml-rtg
   - PrioteasaAndrei/QA-with-transformers-WS23
   - PrioteasaAndrei/Cryptography-Project
   - PrioteasaAndrei/planar-segmentation

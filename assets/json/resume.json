@@ -20,12 +20,12 @@
   },
   "work": [
     {
-      "name": "Teaching Assitant | Machine Learning Essentials SS25, Facultyt of Informatik, University of Heidelberg",
-      "position": "Teaching Assitant",
+      "name": "Teaching Assistant | Machine Learning Essentials SS25, Faculty of Informatik, University of Heidelberg",
+      "position": "Teaching Assistant",
       "url": "",
       "startDate": "2025-04-01",
       "endDate": "Present",
-      "summary": "Implementing automated tests for the course assignments, and grading the assignments. Assisted in creation of debugging questions, that prepare the students for practical challanges when solving ML related tasks in practice.",
+      "summary": "Implementing automated tests for the course assignments, and grading the assignments. Assisted in creation of debugging questions, that prepare the students for practical challenges when solving ML related tasks in practice.",
       "highlights": [
         "Implementing an automated grading framework based on otter-grader, and a testing framework for the course assignments."
       ]
