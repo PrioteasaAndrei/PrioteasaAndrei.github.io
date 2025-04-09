@@ -21,3 +21,8 @@ My primary interest lies in Computer Vision, how this fundamentally is inspired 
 I'm currently pursuing a highly interdisiciplinary M.Sc. at University of Heidelberg, where I focus on applications of AIML in fields outside engineering (e.g. life sciences, social sciences).
 
 In my free time I take a chaotic interest in philosophy, cognitive science and psychology.
+
+<div style="text-align: center;">
+  <h3>Scan me to go directly to the CV</h3>
+  <img src="/assets/img/adobe-express-qr-code.png" alt="cv qr code" width="200">
+</div>
