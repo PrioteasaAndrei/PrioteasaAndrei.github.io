@@ -25,7 +25,7 @@
       "url": "",
       "startDate": "2025-04-01",
       "endDate": "Present",
-      "summary": "Help designing and implementing the course material for the Machine Learning Essentials course, implementing automated tests for the course assignments, and grading the assignments.",
+      "summary": "Implementing automated tests for the course assignments, and grading the assignments. Assisted in creation of debugging questions, that prepare the students for practical challanges when solving ML related tasks in practice.",
       "highlights": [
         "Implementing an automated grading framework based on otter-grader, and a testing framework for the course assignments."
       ]
@@ -101,10 +101,15 @@
         "CV (3D reconstruction)",
         "Time Series Analysis",
         "NLP using Transformers",
-        "Generative NN for the Sciences",
-        "ML Essentials",
+        "Machine Learning Essentials",
         "Computational Statistics",
-        "Software Economics"
+        "Software Economics",
+        "Computational Cognitive Science",
+        "Generative Neural Networks for the Sciences",
+        "GPU Computing and Architecture",
+        "Mining Massive Datasets",
+        "Computatioanl Statistics and Data Analysis",
+        "History of Philosophy"
       ]
     },
     {
@@ -217,7 +222,10 @@
         "LangChain",
         "Elasticsearch",
         "OpenCV",
-        "Streamlit"
+        "Streamlit",
+        "PyMC",
+        "Docker",
+        "Git"
       ]
     },
     {
@@ -244,7 +252,7 @@
     },
     {
       "language": "German",
-      "fluency": "A2 certified"
+      "fluency": "B1 (not certified)"
     },
     {
       "language": "French",
@@ -284,6 +292,22 @@
       "description": "Explored a joint method for the colorization of gray-scale images and color style transfer. We propose an architecture consisting of two parts: a style encoder based on a VGG19 and a UNet, tasked with colorization and enhanced by Adaptive Instance Normalization layers. Both the weights of the AdaIN layers and of the style encoder, on which they rely upon, are trained implicitly. Moreover, we explore the influence of the chosen colorization loss (MSE vs LPIPS), the chosen colorspace (RGB vs LAB) and conduct an ablation study on different configurations of the network. Finally we show examples of colorization and color transfer from some paintings.",
       "highlights": [],
       "url": "https://github.com/PrioteasaAndrei/artistic-colorization-UNet"
+    },
+    {
+      "name": "Music Style transfer with Latent Diffusion Models",
+      "startDate": "2024-04-01",
+      "endDate": "2024-05-01",
+      "description": "Analyzed and implemented a method for style transfer of music using Latent Diffusion Models based on spectograms.",
+      "highlights": [],
+      "url": "https://github.com/PrioteasaAndrei/music-style-transfer-ldm"
+    },
+    {
+      "name": "Risk assesment through Probability Discounting Modeling: a bayesian approach",
+      "startDate": "2024-02-01",
+      "endDate": "2024-03-01",
+      "description": "Modeled, analyzed and implemented a method for risk assesment through probability discounting modeling using a bayesian approach using the pyMC framework. Implemented hierarchical modeling, experimented with different priors and likelihoods and submitted a comprehensive report on the results infered from the behavioral data (from real patients).",
+      "highlights": [],
+      "url": "https://github.com/PrioteasaAndrei/comp-cogsci-delay-discounting"
     },
     {
       "name": "AI Explainability for Human Action Recognition",
