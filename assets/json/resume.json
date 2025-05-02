@@ -4,8 +4,8 @@
     "label": "Data and Computer Science M.Sc. Student",
     "image": "",
     "email": "prioteasa_andrei77@yahoo.com",
-    "phone": "+49 1777714886",
-    "url": "https://github.com/PrioteasaAndrei",
+    "phone": "##################",
+    "url": "prioteasaandrei.github.io",
     "summary": "I am a self-motivated, purpose-oriented person who prefers getting a high-level general overview of the problem before diving into computation and implementation.",
     "location": {
       "address": "PO 69120, Heidelberg, Im Neuenheimer Feld 135-03-03",
@@ -90,26 +90,40 @@
   "education": [
     {
       "institution": "University of Heidelberg",
+      "url": "https://www.heiskills.uni-heidelberg.de/en/certificates-0/certificate-of-advanced-studies-cas-fur-masterdoktorandinnen/cas-cognitive-science",
+      "area": "Certificate of Advanced Studies in Cognitive Science",
+      "studyType": "Application Field of Study",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Computational Cognitive Science",
+        "History of Philosophy",
+        "Seminar of Linguistics",
+        "fMRI analysis and experimental design",
+        "Introuction to Cognitive Science"
+      ]
+    },
+    {
+      "institution": "University of Heidelberg",
       "url": "https://www.uni-heidelberg.de/en",
       "area": "Data and Computer Science",
-      "studyType": "M.Sc.",
+      "studyType": "Master of Science",
       "startDate": "2023-01-01",
       "endDate": "",
       "score": "1.8",
       "courses": [
         "Inverse Problems",
-        "CV (3D reconstruction)",
+        "Computer Vision (3D reconstruction)",
         "Time Series Analysis",
         "NLP using Transformers",
         "Machine Learning Essentials",
-        "Computational Statistics",
         "Software Economics",
-        "Computational Cognitive Science",
         "Generative Neural Networks for the Sciences",
         "GPU Computing and Architecture",
         "Mining Massive Datasets",
-        "Computatioanl Statistics and Data Analysis",
-        "History of Philosophy"
+        "Computational Statistics and Data Analysis",
+        "Deep Learning for Medical Image Analysis"
       ]
     },
     {
@@ -143,17 +157,16 @@
         "Machine Learning for Natural Language Processing",
         "Introduction to Computer Vision",
         "Distributed Systems and Algorithms",
-        "Mobile Networks",
-        "German Language"
+        "Mobile Networks"
       ]
     },
     {
       "institution": "Politehnica University of Bucharest",
       "url": "https://upb.ro",
       "area": "Computer Science, Machine Learning and AI",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2019-01-01",
-      "endDate": "Present",
+      "endDate": "2023-07-01",
       "score": "2.0",
       "courses": [
         "Linear Algebra",
@@ -200,12 +213,23 @@
       "summary": "The German Academic Exchange Service (DAAD) is the largest German support organization in the field of international academic cooperation. Scholarship was awarded for the entire duration of the M.Sc. program at the University of Heidelberg."
     },
     {
+      "title": "Q-Hack 2nd place in Microsoft Challenge",
+      "date": "2023-11-01",
+      "awarder": "Q-Summit",
+      "url": "https://www.q-summit.com/hackathon",
+      "summary": "Participated in the Q-Hack hackathon, a competition that challenges participants to develop AI agents that can enhance university life. Take a look at what we came up with <a href='https://students-ai.com'>here</a>.",
+      "highlights": [
+        "Developed an AI-powered study assistant to help students optimize their learning",
+        "Worked in a team of  to deliver a working prototype in 48 hours",
+        "Used OpenAI's GPT API and Python for backend development"
+      ]
+    },
+    {
       "title": "National Olympiad in Mathematics of Romania - 3rd place",
       "date": "2016, 2017",
       "awarder": "Ministry of Education, Romania"
     }
   ],
-  "certificates": [],
   "publications": [],
   "skills": [
     {
