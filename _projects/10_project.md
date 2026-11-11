@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The law of small numbers: how two digit events shape our perceptions of the world"
+title: "The law of small numbers: how two digit events shape our perception of the world"
 description: How rare, life-changing events in the one- to two-digit range bias our beliefs - a Bayesian take on cognitive bias, recommendation systems and free will. Full article PDF linked on the page.
 img: assets/img/law_of_small_numbers/bayes-inference.png
 importance: 2
