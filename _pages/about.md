@@ -25,8 +25,3 @@ For the past year I have been working as an intern in the Machine Learning Human
 After a 6 months research internship at Roche Diagnostics, where I worked on Multivariate Time Series forecasting and modeling, this time with the aim of improving patient care through personalized predictions from wearables data, I am finally returning to academia with more pragmatism and more confidence to follow that which is close to me: understanding mental ilness through a computational framework. My own failed past experiences with psychiatry (both in Germany and abroad) showed me how big the methodological gap is, between the recent advances in AI and the understanding of cognitive dynamics, and somehow it dawned on me just now that I can pursue a career in this area. It may be a selfish pursuit, but at least I could shorten the gap through this selfishnes.
 
 In my free time I enjoy philosophy, psychology, literature and art.
-
-<div style="text-align: center;">
-  <h3>Scan me to go directly to the CV</h3>
-  <img src="/assets/img/adobe-express-qr-code.png" alt="cv qr code" width="200">
-</div>
